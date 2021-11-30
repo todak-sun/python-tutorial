@@ -1,0 +1,31 @@
+{
+  "[jupyter]": {
+    
+  },
+  "jupyter.kernels.filter": [
+    {
+      "path": "~/.pyenv/versions/3.10.0/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "~/.venv/dev/bin/python3.10",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/bin/python2",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/bin/python2",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/bin/python3",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/bin/python3",
+      "type": "pythonEnvironment"
+    }
+  ],
+}
